@@ -56,6 +56,9 @@ while True:
 
 ```
 ## OUPUT
+![Screenshot 2024-10-04 110512](https://github.com/user-attachments/assets/d07db134-4024-455d-9e75-c0da37619acc)
+
+
 ![Screenshot 2024-10-02 121523](https://github.com/user-attachments/assets/5f370131-bcd7-472d-a068-fb34574dd5f0)
 
 ## RESULT
